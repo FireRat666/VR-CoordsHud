@@ -1,0 +1,9 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.3.21f1
+CRC: 2914859768
+HashAppended: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: coordshud
+      Dependencies: {}
